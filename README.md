@@ -1,5 +1,10 @@
-# Python Concurrency
-Python Concurrency For Reference
+![GitHub language count](https://img.shields.io/github/languages/count/adilsonmicuim/python-concurrency)
+![GitHub top language](https://img.shields.io/github/languages/top/adilsonmicuim/python-concurrency)
+![GitHub repo size](https://img.shields.io/github/repo-size/adilsonmicuim/python-concurrency)
+![GitHub last commit](https://img.shields.io/github/last-commit/adilsonmicuim/python-concurrency)
+
+# :snake: Python Concurrency
+### Python Concurrency For Reference
 
 ### Getting Started
 The goal of this repository is to show what python offers to handle concurrency and multi-processing.
